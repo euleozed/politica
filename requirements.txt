@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+numpy
+streamlit_extras
+babel
